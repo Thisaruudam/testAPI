@@ -1,0 +1,36 @@
+{
+  cities : [
+    "Vavuniya",
+    "Kalutara",
+    "Mullativu",
+    "Matara",
+    "Anuradhapura",
+    "Trincomalee",
+    "Galle",
+    "Batticaloa",
+    "Matale",
+    "Moneragala",
+    "Polonnaruwa",
+    "Kilinochchi",
+    "Kandy",
+    "Ratnapura",
+    "Ampara",
+    "Jaffna",
+    "Kurunegala",
+    "Hambantota",
+    "Nuwara Eliya",
+    "Puttalam",
+    "Kegalle",
+    "Badulla",
+    "Colombo",
+    "Gampaha",
+    "Mannar"
+  ],
+  recentSearches: [
+    "Kegalle",
+    "Badulla",
+    "Colombo",
+    "Gampaha",
+    "Mannar"
+  ]
+}

@@ -1,5 +1,5 @@
 {
-  cities : [
+  "cities" : [
     "Vavuniya",
     "Kalutara",
     "Mullativu",
@@ -26,7 +26,7 @@
     "Gampaha",
     "Mannar"
   ],
-  recentSearches: [
+  "recentSearches" : [
     "Kegalle",
     "Badulla",
     "Colombo",
